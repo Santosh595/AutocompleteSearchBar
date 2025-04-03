@@ -1,12 +1,55 @@
-# React + Vite
+# 🔍 Auto-Complete Search Bar | Machine Coding Round
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React application implementing an **Auto-Complete Search Bar**. It was developed as part of a **machine coding round** to demonstrate efficient search functionality with real-time filtering.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- ✅ Dynamic search suggestions as you type
+- ✅ Optimized for performance with debouncing
+- ✅ Lightweight and fast with **Vite**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📦 Installation & Setup
 
-## Expanding the ESLint configuration
+1. **Clone the repository**
+   ```sh
+   git clone https://github.com/your-username/repo-name.git
+   ```
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2. **Navigate to the project directory**
+   ```sh
+   cd repo-name
+   ```
+
+3. **Install dependencies**
+   ```sh
+   npm install
+   ```
+
+4. **Start the development server**
+   ```sh
+   npm run dev
+   ```
+
+
+## 📜 Usage
+- Start typing in the search bar to see suggestions.
+- Press **Enter** to select a suggestion.
+- Handles **debounced input** for optimized performance.
+
+## 🛠️ Technologies Used
+- **React** (Functional Components & Hooks)
+- **Vite** (Fast build & development tool)
+- **CSS** (For basic styling)
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to submit a pull request or suggest improvements.
+
+## 📜 License
+This project is open-source and available under the MIT License.
+
+Contact
+
+For any questions, reach out at 2002santoshkar@gmail.com.
+
+---
+### 🚀 Happy Coding! 🎉
+
